@@ -38,6 +38,6 @@ To bridge the gap between traditional networking and cloud-based infrastructures
 
 🖥 [Small Business Network Project](https://github.com/LAWAL12/network-bombers-ccna-challenge)
 
-🖥  [Hospital Network Project(https://github.com/LAWAL12/network-bombers-ccna-challenge/tree/main/hospital-network)
+🖥  [Hospital Network Project](https://github.com/LAWAL12/network-bombers-ccna-challenge/tree/main/hospital-network)
 
 -->
